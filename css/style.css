@@ -1,0 +1,8 @@
+table, th, td {
+  border: 1px solid black;
+}
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
